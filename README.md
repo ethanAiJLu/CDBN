@@ -1,2 +1,2 @@
 # CDBN
-The open-source code for the paper "Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation" will be made available after the paper successfully passes the initial peer review process. We appreciate your interest and encourage you to check back for access.
+Due to privacy protection concerns in the early stages of the paper, the open-source code for "Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation" will be made available after the paper successfully passes the initial peer review process. We appreciate your interest and understanding, and we encourage you to check back for access to our research findings.
