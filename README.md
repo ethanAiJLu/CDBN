@@ -21,6 +21,7 @@ conda install pytorch==1.10.1 torchvision==0.11.2 cudatoolkit==11.3 -c pytorch
 The training process consists of two main stages:
 
 Stage 1: Few-shot training on the source domain to obtain a source-free model.
+
 Stage 2: Adaptation of the model to the target domain for optimal performance.
 
 ```bash
