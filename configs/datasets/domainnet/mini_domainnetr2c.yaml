@@ -1,0 +1,15 @@
+DATASET: 
+  NAME: "MiniDomainNetPseudo"
+  SOURCE_DOMAINS: ["real"]
+  
+  TARGET_DOMAINS: ["clipart"]
+  NUM_SHOTS : 8
+
+
+# you can modify the code to explore four domains
+TEST:
+  PER_CLASS_RESULT: True
+
+TRAINER:
+  FIXMATCH:
+    STRONG_TRANSFORMS: ["randaugment_fixmatch"]
