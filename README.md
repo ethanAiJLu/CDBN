@@ -5,7 +5,7 @@ Official implementation of CDBN(CLIP-powered Dual-Branch Network)[[Paper](https:
 ## Overview
 
 Architecture of Network.
-![Architecture of Network](./assets/framework.jpg)
+![Architecture of Network](./assets/framework.png)
 
 ## Requirements
 
